@@ -7,7 +7,7 @@ Scenario: debo poder ver dos cartas
 	Then debo ver carta uno como "2P"
 	And debo ver carta dos como "2T"
 
-Scenario: debe poder ver dos cartas del oponente
-	Given ya vi mis dos cartas
-	Then debo ver carta uno del oponente como "9P"
-	And debo ver carta dos del oponente como "5C"
+#Scenario: debe poder ver dos cartas del oponente
+#	Given ya vi mis dos cartas
+#	Then debo ver carta uno del oponente como "9P"
+#	And debo ver carta dos del oponente como "5C"
