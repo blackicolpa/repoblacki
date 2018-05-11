@@ -10,13 +10,13 @@ class Blackicolpa
   	#numero aleatorio
   	num_aleat = rand(numero.length)
  
-  	puts numero[num_aleat] + ' de ' + palos[palo_aleat] 
+  	numero[num_aleat] + ' de ' + palos[palo_aleat] 
 	end
 
 	#def asignar_carta
-	#	carta1 = numero[num_aleat] + ' de ' + palos[palo_aleat]
+	#	@carta1 = numero[num_aleat] + ' de ' + palos[palo_aleat]
 	#	@carta2 = numero[num_aleat] + ' de ' + palos[palo_aleat]
-	#puts carta1  
+	#puts carta1[@carta1]  
 	#'y su carta 2 es ' @carta2
 	#end
 end
