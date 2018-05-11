@@ -1,7 +1,7 @@
 {
   "Cucumber Features": {
     "coverage": {
-      "/home/kleer/csd/repoblacki/app.rb": [
+      "/home/kleer/csd/blackicolpa/repoblacki/app.rb": [
         1,
         1,
         null,
@@ -10,7 +10,7 @@
         null,
         null
       ],
-      "/home/kleer/csd/repoblacki/config.rb": [
+      "/home/kleer/csd/blackicolpa/repoblacki/config.rb": [
         null,
         1,
         null,
@@ -22,7 +22,7 @@
         1,
         1
       ],
-      "/home/kleer/csd/repoblacki/features/step_definitions/my_steps.rb": [
+      "/home/kleer/csd/blackicolpa/repoblacki/features/step_definitions/my_steps.rb": [
         1,
         1,
         null,
@@ -32,7 +32,7 @@
         null,
         null
       ],
-      "/home/kleer/csd/repoblacki/features/step_definitions/template_steps.rb": [
+      "/home/kleer/csd/blackicolpa/repoblacki/features/step_definitions/template_steps.rb": [
         1,
         0,
         null,
@@ -91,6 +91,6 @@
         null
       ]
     },
-    "timestamp": 1526049307
+    "timestamp": 1526050047
   }
 }
