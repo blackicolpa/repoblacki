@@ -4,5 +4,10 @@ Feature:
 CA
 Scenario: debo poder ver dos cartas 
 	Given que abro el juego
-	Then debo ver "Su carta 1 es: 2P"
-	#And debo ver "Su carta 2 es: 2T"
+	Then debo ver carta uno como "2P"
+	And debo ver carta dos como "2T"
+
+Scenario: debe poder ver dos cartas del oponente
+	Given ya vi mis dos cartas
+	Then debo ver carta uno del oponente como "9P"
+	And debo ver carta dos del oponente como "5C"
